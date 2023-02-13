@@ -29,4 +29,7 @@ set permissions to file hello 007
 set permission to hello to -rwxr-x-wx
 
 #10-mirror_permissions
-copy file permission from another file 
+copy file permission from another file
+
+#11-directories_permissions
+add x permissions to only directories 
