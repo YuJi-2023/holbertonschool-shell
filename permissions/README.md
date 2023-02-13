@@ -32,4 +32,7 @@ set permission to hello to -rwxr-x-wx
 copy file permission from another file
 
 #11-directories_permissions
-add x permissions to only directories 
+add x permissions to only directories
+
+#12-directory_permissions
+creat my_dir with 751 permissions 
