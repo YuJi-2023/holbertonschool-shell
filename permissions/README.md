@@ -26,4 +26,7 @@ add execution permissions to every group
 set permissions to file hello 007
 
 #9-John_Doe
-set permission to hello to -rwxr-x-wx 
+set permission to hello to -rwxr-x-wx
+
+#10-mirror_permissions
+copy file permission from another file 
