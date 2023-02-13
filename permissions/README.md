@@ -44,4 +44,7 @@ change group name
 change both owner and group to spedific names
 
 #15-symbolic_link_permissions
-chown command with symbolic link 
+chown command with symbolic link
+
+#16-if_only
+change owner if only a specific user name 
