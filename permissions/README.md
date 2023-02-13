@@ -35,4 +35,7 @@ copy file permission from another file
 add x permissions to only directories
 
 #12-directory_permissions
-creat my_dir with 751 permissions 
+creat my_dir with 751 permissions
+
+#13-change_group
+change group name 
