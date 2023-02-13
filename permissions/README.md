@@ -15,3 +15,6 @@ creat new file hello
 
 #5-execute
 add execute permission to file
+
+#6-multiple_permissions
+add multiple permissions to owner and group
