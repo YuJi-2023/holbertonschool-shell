@@ -24,3 +24,6 @@ add execution permissions to every group
 
 #8-James_Bond
 set permissions to file hello 007
+
+#9-John_Doe
+set permission to hello to -rwxr-x-wx 
