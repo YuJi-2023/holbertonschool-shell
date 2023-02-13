@@ -21,3 +21,6 @@ add multiple permissions to owner and group
 
 #7-everybody
 add execution permissions to every group
+
+#8-James_Bond
+set permissions to file hello 007
