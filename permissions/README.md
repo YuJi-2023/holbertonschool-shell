@@ -38,4 +38,7 @@ add x permissions to only directories
 creat my_dir with 751 permissions
 
 #13-change_group
-change group name 
+change group name
+
+#14-change_owner_and_group
+change both owner and group to spedific names 
