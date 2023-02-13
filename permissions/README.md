@@ -41,4 +41,7 @@ creat my_dir with 751 permissions
 change group name
 
 #14-change_owner_and_group
-change both owner and group to spedific names 
+change both owner and group to spedific names
+
+#15-symbolic_link_permissions
+chown command with symbolic link 
