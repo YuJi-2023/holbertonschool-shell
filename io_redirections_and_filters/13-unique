@@ -1,2 +1,2 @@
 #!/bin/bash
-readarray -n 1 | sort | unique -u 
+sort | uniq -u 
