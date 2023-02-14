@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -empty -print -o -type f -empty -print | cut -d/ -f2 --complement
+find . -type d -print -o -type f -print | cut -d/ -z -f2 --complement
