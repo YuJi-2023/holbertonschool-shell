@@ -1,0 +1,2 @@
+#!/bin/bash
+read -d tab | cut -f1 | sort | uniq -c | sort -n11
