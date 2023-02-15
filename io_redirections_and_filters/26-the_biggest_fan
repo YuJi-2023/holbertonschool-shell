@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f host | sort | uniq -c | sort -n11
+cut -f host | sort | uniq -c | sort -n
